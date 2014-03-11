@@ -1,0 +1,59 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="suite1" verbose="1" parallel="tests" thread-count="4">
+
+    <!--
+    <suite name="Suite1" verbose="1">
+        <groups>
+        <run>
+
+        </run>
+    </groups>
+      -->
+
+<!--  
+    <test name="Regression-ff">
+        <classes>
+            <class name="unittest.com.chartboost.modules.factories.ResourceBundleFactoryTest"/>
+        </classes>
+    </test>
+-->
+
+    <test name="Smoke-FF">
+        <classes>
+            <parameter name="browser-type" value="FF"/>
+            <parameter name="language" value="en"/>
+            <parameter name="region" value="US"/>
+            <class name="com.chartboost.tests.smoke.ChartboostJobsUISmokeTest"/>
+        </classes>
+    </test>
+  
+   
+    <test name="Smoke-CHROME">
+        <classes>
+            <parameter name="browser-type" value="CHROME"/>
+            <parameter name="language" value="en"/>
+            <parameter name="region" value="US"/>
+            <class name="com.chartboost.tests.smoke.ChartboostJobsUISmokeTest"/>
+        </classes>
+    </test>
+
+
+    <!--
+    <test name="Smoke-ff">
+        <classes>
+            <parameter name="browser-type" value="FF"/>
+            <parameter name="browser-type" value="ff"/>
+            <class name="scripts.ChartboostUISmoke"/>
+        </classes>
+    </test>
+
+    <test name="Smoke-chrome">
+        <classes>
+            <parameter name="browser-type" value="chrome"/>
+            <class name="scripts.ChartboostUISmoke"/>
+        </classes>
+    </test>
+-->
+
+</suite>

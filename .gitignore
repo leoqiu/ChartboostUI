@@ -1,0 +1,12 @@
+#binary
+*.class
+#xslt report
+reports/
+#ivy libs
+lib/
+#testng report
+test-output/
+#eclipse project ignores
+.classpath
+.project
+.settings/

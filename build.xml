@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="UIAutomation" default="makexsltreports" xmlns:ivy="antlib:org.apache.ivy.ant" basedir=".">
+    <!-- ============ Initialize Properties ================ --> 
+    <property name="jars.dir" value="${basedir}/lib"/>
+	<property name="external.jars.dir" value="${basedir}/extralibs"/>
+	<property name="jars.dir.SaxonLiaison" value="${basedir}/extralibs"/>
+    <property name="test.dest" value="${basedir}/build"/>
+    <property name="test.src" value="${basedir}/src"/>
+    <property name="ng.result" value="${basedir}/test-output"/>
+    
+    <!-- ============= task targets =================== -->
+    <!-- ================================= 
+          target: resolve              
+         ================================= -->
+    <target name="resolve" description="--> retreive dependencies with ivy">
+        <ivy:retrieve/>
+    </target>  
+	
+	
+    <target name="setClassPath" depends="resolve" unless="test.classpath">
+        <path id="classpath_jars">
+            <fileset dir="${jars.dir}" includes="*.jar"/>
+        </path>
+        <pathconvert pathsep=":" property="test.classpath" refid="classpath_jars"/>
+    </target>
+
+    <target name="init" depends="setClassPath">
+        <tstamp>
+            <format property="start.time" pattern="MM/dd/yyyy hh:mm aa" />
+        </tstamp>
+        
+        <condition property="ANT" 
+            value="${env.ANT_HOME}/bin/ant.bat"
+            else="${env.ANT_HOME}/bin/ant">
+        	<os family="windows"/>
+        </condition>
+    <taskdef name="testng" classpath="${test.classpath}"
+            classname="org.testng.TestNGAntTask"/>      
+    </target>
+    
+     <!-- all -->
+    <target name="all">
+    </target>
+    
+    <!-- clean -->
+    <target name="clean">
+        <delete dir="${test.dest}"/>
+    </target>
+    
+     <!-- complie -->
+    <target name="compile" depends="init, clean">
+        <delete includeemptydirs="true" quiet="true">
+            <fileset dir="${test.dest}" includes="**/*"/>
+        </delete>
+        <echo message="making directory..."/>
+        	<mkdir dir="${test.dest}"/>
+        <echo message="classpath------: ${test.classpath}"/>
+        <echo message="compiling..."/>
+        <javac
+            debug="true"
+            destdir="${test.dest}"
+            srcdir="${test.src}"
+            target="1.7"
+            includeantruntime="false"
+            classpath="${test.classpath}">
+        </javac>  
+    </target>
+    
+    <!-- build -->
+    <target name="build" depends="init">  
+    </target>
+    
+    <!-- run -->
+    <target name="run" depends="compile">
+        <testng classpath="${test.classpath}:${test.dest}" suitename="suite1">
+            <xmlfileset dir="${basedir}/executions/smoketest" includes="cb_jobsui_smoke.xml"/>
+        </testng>
+    </target>
+    
+    <!-- usage -->
+    <target name="usage">
+        <echo>
+            ant run will execute the test
+        </echo>
+    </target>
+    
+    <!-- classpath ref used in target - makexsltreports -->
+    <path id="libs.ref">
+    	<fileset dir="${jars.dir}" includes="*.jar"/>
+        <fileset dir="${external.jars.dir}" includes="*.jar"/>
+    </path>
+
+    <target name="makexsltreports" depends="run">
+    	<mkdir dir="${basedir}/reports"/>
+       	<xslt in="${ng.result}/testng-results.xml" style="${basedir}/configs/testng-results.xsl"
+                       out="${basedir}/reports/index.html" 
+                       classpathref="libs.ref" processor="SaxonLiaison">
+       		<param name="testNgXslt.outputDir" expression="${basedir}/reports/"/>
+       		<param name="testNgXslt.showRuntimeTotals" expression="true"/>
+       	</xslt>
+  	</target>
+    
+</project>    
+    
+    
+
+
+
+
+
+
+
+
+
+

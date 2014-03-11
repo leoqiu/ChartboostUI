@@ -1,0 +1,906 @@
+2014-03-05 22:23:26,682 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 22:23:26,682 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 22:23:34,764 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 22:23:34,765 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (020f9e33-b88d-0941-8484-32cedb2e28ee)
+2014-03-05 22:23:36,292 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 22:23:36,293 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (ec32a6478cba752adbf6f39235fc2f38)
+2014-03-05 22:23:40,395 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 22:23:40,529 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 22:23:41,489 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:41,531 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 22:23:41,785 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 22:23:42,108 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 22:23:42,434 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:42,476 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 22:23:42,979 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:43,029 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 22:23:43,394 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:43,433 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 22:23:43,886 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:43,919 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 22:23:44,302 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:44,341 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 22:23:44,766 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:44,802 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 22:23:45,227 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:45,261 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 22:23:45,644 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:45,678 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 22:23:46,124 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:46,161 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 22:23:46,534 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:46,574 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 22:23:47,419 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:23:47,443 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 22:57:28,983 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 22:57:28,983 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 22:57:30,887 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 22:57:30,888 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (89ccb3cce4ac75482249d1c96062b0bd)
+2014-03-05 22:57:35,403 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 22:57:35,718 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 22:57:36,605 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:36,669 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 22:57:37,533 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:37,601 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 22:57:38,425 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 22:57:38,425 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (2a0a974f-a58f-ca40-80fb-9fb0f9d9f1bf)
+2014-03-05 22:57:38,466 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:38,532 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 22:57:39,378 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:39,411 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 22:57:40,259 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:40,304 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 22:57:41,150 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:41,184 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 22:57:43,466 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 22:57:43,585 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 22:57:44,504 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:44,534 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 22:57:45,392 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:45,429 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 22:57:46,302 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:46,364 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 22:57:47,224 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:47,265 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 22:57:48,129 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:48,173 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 22:57:49,036 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 22:57:49,070 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 23:16:12,209 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:16:12,209 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:16:14,161 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 23:16:14,162 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (240b22fad177beae219320b4fefd826e)
+2014-03-05 23:16:21,462 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 23:16:21,463 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (947bd653-ad58-8640-8d78-03231326adf6)
+2014-03-05 23:16:40,548 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:16:40,548 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:16:42,429 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 23:16:42,430 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (e3cf0fded1bb91ab4769efed5d42b136)
+2014-03-05 23:16:49,230 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 23:16:49,583 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 23:16:50,237 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 23:16:50,238 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (9bc293bc-0a5a-3946-be23-439cdd04c4f7)
+2014-03-05 23:16:50,462 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:16:50,518 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 23:16:51,368 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:16:51,404 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 23:16:52,248 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:16:52,280 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 23:16:53,127 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:16:53,158 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 23:16:54,004 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:16:54,042 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 23:16:54,887 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:16:54,921 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 23:16:59,331 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 23:16:59,535 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 23:17:00,396 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:17:00,425 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 23:17:01,301 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:17:01,336 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 23:17:02,188 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:17:02,222 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 23:17:03,086 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:17:03,120 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 23:17:03,983 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:17:04,016 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 23:17:04,879 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:17:04,908 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 23:19:26,427 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:19:34,156 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 23:19:34,157 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (13a93be0-5ac5-3b4e-96fa-a74cdfef7e24)
+2014-03-05 23:19:38,645 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 23:19:38,759 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 23:19:39,633 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:39,667 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 23:19:40,531 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:40,563 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 23:19:41,429 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:41,459 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 23:19:42,326 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:42,356 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 23:19:43,222 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:43,302 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 23:19:44,163 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:44,195 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 23:19:44,295 - main - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:19:45,647 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 23:19:45,648 - main - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (20999dfa35d55c5cd2356bcc150714c0)
+2014-03-05 23:19:49,430 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 23:19:49,546 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 23:19:50,420 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:50,466 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 23:19:51,311 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:51,342 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 23:19:52,185 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:52,216 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 23:19:53,061 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:53,092 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 23:19:53,936 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:53,967 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 23:19:54,808 - main - INFO - By.id: tiptip_content after find by
+2014-03-05 23:19:54,832 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 23:24:03,813 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:24:03,813 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:28:59,556 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:28:59,556 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:31:22,632 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:31:22,632 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:34:08,702 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:34:08,702 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:35:27,009 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:35:27,009 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:35:28,880 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 23:35:28,880 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (22071d52c6a69610c8a5fe7a4a24b36e)
+2014-03-05 23:35:32,635 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 23:35:32,922 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 23:35:33,801 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:33,850 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 23:35:34,708 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:34,764 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 23:35:35,621 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:35,669 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 23:35:36,194 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-05 23:35:36,194 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (9cb05caf-1fc4-644c-9b26-f780f37569e3)
+2014-03-05 23:35:36,528 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:36,560 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 23:35:37,411 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:37,450 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 23:35:38,299 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:38,349 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 23:35:41,159 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-05 23:35:41,258 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-05 23:35:42,182 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:42,211 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-05 23:35:43,073 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:43,104 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-05 23:35:43,962 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:44,000 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-05 23:35:44,869 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:44,938 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-05 23:35:45,813 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:45,852 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-05 23:35:46,709 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-05 23:35:46,750 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-05 23:37:00,279 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:37:00,279 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:45:09,906 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-05 23:45:09,906 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:47:38,875 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-05 23:47:38,875 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-06 09:24:15,784 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 09:24:15,784 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-06 09:24:24,635 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 09:24:24,636 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (2d3c8f8a-ceac-b04b-917c-1cbe6d01dc2b)
+2014-03-06 09:24:29,479 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 09:24:29,614 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 09:24:30,535 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 09:24:30,572 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 09:24:31,446 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 09:24:31,489 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 09:24:32,366 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 09:24:32,395 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 09:24:33,265 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 09:24:33,307 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 09:24:34,202 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 09:24:34,232 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 09:24:35,116 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 09:24:35,163 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 09:40:26,966 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 09:40:34,976 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 09:40:34,977 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (acf93130-628c-b54a-a6d3-5581f95c4a9a)
+2014-03-06 09:40:36,974 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 09:40:37,082 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 09:40:37,968 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 09:40:37,996 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 09:40:38,854 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 09:40:38,885 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 09:40:39,743 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 09:40:39,769 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 09:40:40,628 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 09:40:40,657 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 09:40:41,517 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 09:40:41,549 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 09:40:42,419 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 09:40:42,451 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 09:58:08,227 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:08:51,431 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:18:13,346 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:23:09,457 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:23:17,721 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 10:23:17,722 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (524c2a23-cf97-bf4a-82c6-8bc01ed55838)
+2014-03-06 10:23:19,651 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 10:23:19,772 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 10:23:20,704 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:23:20,735 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 10:23:21,598 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:23:21,652 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 10:23:22,515 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:23:22,548 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 10:23:23,403 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:23:23,435 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 10:23:24,294 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:23:24,324 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 10:23:25,183 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:23:25,219 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 10:24:26,429 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:24:34,210 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 10:24:34,210 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (f56d42d6-b53a-d341-92eb-7f1f3674fe37)
+2014-03-06 10:24:36,808 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 10:24:36,916 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 10:24:37,818 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:24:37,851 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 10:24:38,711 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:24:38,739 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 10:24:39,602 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:24:39,634 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 10:24:40,499 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:24:40,532 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 10:24:41,397 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:24:41,437 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 10:24:42,305 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:24:42,336 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 10:25:05,878 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:36:09,739 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:36:41,431 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:49:32,851 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:49:41,000 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 10:49:41,000 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (3672c9ec-1fc1-bd42-a546-4756f414a25d)
+2014-03-06 10:49:42,946 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 10:49:43,067 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 10:49:43,971 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:49:44,003 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 10:49:44,860 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:49:44,892 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 10:49:45,763 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:49:45,796 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 10:49:46,652 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:49:46,686 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 10:49:47,549 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:49:47,579 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 10:49:48,447 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:49:48,475 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 10:50:23,315 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:52:30,517 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:53:44,026 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:53:51,734 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 10:53:51,734 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (2c8d7ccb-0eed-e344-bd67-77b979700aba)
+2014-03-06 10:53:53,755 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 10:53:53,881 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 10:53:54,750 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:53:54,782 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 10:53:55,642 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:53:55,673 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 10:53:56,534 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:53:56,568 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 10:53:57,431 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:53:57,463 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 10:53:58,325 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:53:58,358 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 10:53:59,242 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 10:53:59,275 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 10:55:53,357 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:57:15,751 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 10:58:41,757 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 11:00:26,670 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 11:00:34,550 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 11:00:34,550 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (b9894787-2ed7-0f43-8422-750ee6bcab5e)
+2014-03-06 11:00:36,728 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 11:00:36,842 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 11:00:37,727 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:00:37,758 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 11:00:38,618 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:00:38,650 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 11:00:39,512 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:00:39,545 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 11:00:40,404 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:00:40,437 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 11:00:41,296 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:00:41,326 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 11:00:42,197 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:00:42,231 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 11:04:48,717 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 11:05:56,529 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 11:06:04,523 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 11:06:04,523 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (9c9a1ca8-9e12-a443-a8d4-2ea1ae6ebe3a)
+2014-03-06 11:06:06,613 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 11:06:06,726 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 11:06:07,619 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:06:07,653 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 11:06:08,514 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:06:08,544 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 11:06:09,408 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:06:09,442 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 11:06:10,302 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:06:10,336 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 11:06:11,203 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:06:11,236 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 11:06:12,130 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:06:12,153 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 11:06:59,673 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 11:07:07,766 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 11:07:07,766 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (8c7a952e-b63d-c045-afff-fca913c8438c)
+2014-03-06 11:07:09,995 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 11:07:10,119 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 11:07:11,028 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:07:11,061 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 11:07:11,916 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:07:11,951 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 11:07:12,821 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:07:12,854 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 11:07:13,714 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:07:13,749 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 11:07:14,611 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:07:14,641 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 11:07:15,504 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:07:15,527 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 11:07:50,565 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 11:07:58,285 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 11:07:58,286 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (899dd89c-23be-6b48-9a5f-f73be1325b0f)
+2014-03-06 11:08:00,937 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 11:08:01,060 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 11:08:01,986 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:08:02,019 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 11:08:02,877 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:08:02,928 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 11:08:03,792 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:08:03,825 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 11:08:04,688 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:08:04,722 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 11:08:05,585 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:08:05,624 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 11:08:06,496 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:08:06,523 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 11:12:10,179 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 11:12:17,961 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 11:12:17,961 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (44e5b80e-4138-394d-82dc-e355380974d0)
+2014-03-06 11:12:20,271 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 11:12:20,387 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 11:12:21,270 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:12:21,298 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 11:12:22,158 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:12:22,184 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 11:12:23,049 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:12:23,082 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 11:12:23,942 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:12:23,980 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 11:12:24,837 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:12:24,871 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 11:12:25,732 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:12:25,758 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 11:12:51,824 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 11:12:59,617 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 11:12:59,618 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (70789028-c281-0b43-8192-03a7c7db5b36)
+2014-03-06 11:13:02,425 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 11:13:02,555 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 11:13:03,466 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:13:03,493 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 11:13:04,351 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:13:04,392 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 11:13:05,272 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:13:05,304 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 11:13:06,169 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:13:06,205 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 11:13:07,071 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:13:07,100 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 11:13:07,971 - main - INFO - By.id: tiptip_content after find by
+2014-03-06 11:13:08,002 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 14:38:33,594 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 14:38:41,632 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 14:38:41,632 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (5cf62aee-7e04-4d43-9960-a5842118600b)
+2014-03-06 14:38:43,814 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 14:38:43,940 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 14:38:44,849 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:38:44,879 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 14:38:45,740 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:38:45,776 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 14:38:46,652 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:38:46,686 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 14:38:47,546 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:38:47,582 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 14:38:48,446 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:38:48,481 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 14:38:49,369 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:38:49,390 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 14:40:03,953 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-06 14:40:03,953 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-06 14:40:11,690 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 14:40:11,691 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (a09597fe-4789-8646-9b52-e29bdedc0779)
+2014-03-06 14:40:13,961 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-06 14:40:13,962 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (ae4385c0d35e58cedd7fa89db2002983)
+2014-03-06 14:40:14,570 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 14:40:14,807 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 14:40:15,774 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:15,822 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 14:40:16,278 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-06 14:40:16,564 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-06 14:40:16,698 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:16,759 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 14:40:17,439 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:17,518 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-06 14:40:17,677 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:17,720 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 14:40:18,372 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:18,406 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-06 14:40:18,583 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:18,617 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 14:40:19,246 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:19,282 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-06 14:40:19,486 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:19,554 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 14:40:20,123 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:20,155 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-06 14:40:20,434 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:20,456 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-06 14:40:21,000 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:21,036 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-06 14:40:21,876 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-06 14:40:21,891 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-07 15:49:17,506 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-07 15:49:17,506 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-07 15:49:25,935 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-07 15:49:25,936 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (b6f423d8-7fb4-9941-8d9a-b930e2ea1676)
+2014-03-07 15:49:28,137 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-07 15:49:28,367 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-07 15:49:29,227 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:49:29,257 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-07 15:49:30,111 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:49:30,146 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-07 15:49:31,024 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:49:31,056 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-07 15:49:31,922 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:49:31,956 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-07 15:49:32,816 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:49:32,849 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-07 15:49:33,715 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:49:33,751 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-07 15:53:15,968 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-07 15:53:15,968 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-07 15:53:17,976 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-07 15:53:17,976 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (0b163e8176e87c504094b800088324ed)
+2014-03-07 15:53:20,191 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-07 15:53:20,308 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-07 15:53:21,171 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:21,222 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-07 15:53:22,068 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:22,102 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-07 15:53:22,941 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:22,971 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-07 15:53:23,830 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:23,876 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-07 15:53:24,736 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:24,781 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-07 15:53:25,639 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:25,642 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-07 15:53:25,642 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (aa107788-c3cc-8b46-8f77-91327007a279)
+2014-03-07 15:53:25,671 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-07 15:53:27,699 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-07 15:53:27,801 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-07 15:53:28,690 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:28,715 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-07 15:53:29,565 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:29,595 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-07 15:53:30,447 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:30,479 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-07 15:53:31,344 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:31,373 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-07 15:53:32,242 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:32,271 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-07 15:53:33,136 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-07 15:53:33,160 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-07 15:58:41,863 - main - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-07 15:58:43,744 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-07 15:58:43,745 - main - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (bbb279cdf9a6de226f68d12ace01bccb)
+2014-03-07 15:58:46,086 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-07 15:58:46,402 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-07 15:58:47,279 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:58:47,326 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-07 15:58:48,179 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:58:48,210 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-07 15:58:49,054 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:58:49,086 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-07 15:58:49,928 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:58:49,959 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-07 15:58:50,803 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:58:50,834 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-07 15:58:51,697 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:58:51,725 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-07 15:58:51,940 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-07 15:58:59,232 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-07 15:58:59,233 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (03b5e50b-1079-2a49-a998-a83969ac0c5d)
+2014-03-07 15:59:01,353 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-07 15:59:01,461 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-07 15:59:02,373 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:59:02,404 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-07 15:59:03,263 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:59:03,294 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-07 15:59:04,155 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:59:04,185 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-07 15:59:05,050 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:59:05,081 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-07 15:59:05,941 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:59:05,973 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-07 15:59:06,834 - main - INFO - By.id: tiptip_content after find by
+2014-03-07 15:59:06,858 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 15:13:42,712 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 15:13:42,712 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-10 15:19:38,792 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-10 15:19:38,792 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 15:22:32,589 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 15:22:32,589 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-10 15:35:53,148 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-10 15:35:53,148 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 15:36:00,743 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 15:36:00,744 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (e8aa8be5-aaaf-1447-9454-9575ad3557bf)
+2014-03-10 15:36:01,904 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 15:36:01,904 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (238903ee5737dbcf24904106c11c8075)
+2014-03-10 15:36:03,307 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 15:36:03,466 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 15:36:04,247 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 15:36:04,378 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:04,400 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 15:36:04,505 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 15:36:05,242 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:05,273 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 15:36:05,371 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:05,411 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 15:36:06,129 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:06,157 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 15:36:06,244 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:06,271 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 15:36:07,047 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:07,080 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 15:36:07,112 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:07,142 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 15:36:07,935 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:07,965 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 15:36:07,979 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:08,024 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 15:36:08,813 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:08,834 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 15:36:08,896 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:08,952 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 15:36:09,792 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:09,813 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 15:36:31,517 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-10 15:36:31,517 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 15:36:38,231 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 15:36:38,231 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (6b5a5e13-e338-f141-96b9-668fcca2e2ab)
+2014-03-10 15:36:39,195 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 15:36:39,195 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (518bf621f4a0b6f33e7ef633facdaece)
+2014-03-10 15:36:40,203 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 15:36:40,296 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 15:36:41,189 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:41,211 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 15:36:41,380 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 15:36:41,532 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 15:36:42,047 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:42,067 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 15:36:42,404 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:42,436 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 15:36:42,910 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:42,932 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 15:36:43,268 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:43,291 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 15:36:43,776 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:43,804 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 15:36:44,125 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:44,148 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 15:36:44,651 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:44,677 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 15:36:44,985 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:45,008 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 15:36:45,523 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:45,541 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 15:36:45,871 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:45,986 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 15:36:46,823 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 15:36:46,839 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 16:10:12,288 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 16:10:12,288 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-10 16:10:13,533 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 16:10:13,533 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (f1b34da5034ef01d3dc4d74dcca83527)
+2014-03-10 16:10:15,698 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 16:10:15,813 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 16:10:16,696 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:16,736 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 16:10:17,570 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:17,613 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 16:10:18,451 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:18,489 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 16:10:19,321 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:19,354 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 16:10:20,187 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:20,232 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 16:10:20,564 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 16:10:20,564 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (287892a7-8fed-8b42-ab97-9ae127591eb1)
+2014-03-10 16:10:21,066 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:21,583 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 16:10:22,422 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 16:10:22,531 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 16:10:23,444 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:23,462 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 16:10:24,302 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:24,319 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 16:10:25,161 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:25,188 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 16:10:26,031 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:26,054 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 16:10:26,896 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:26,941 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 16:10:27,785 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:10:27,803 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 16:12:18,629 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 16:12:18,629 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-10 16:12:19,817 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 16:12:19,817 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (25e3c313f69be4fbf99a50c8b50627e7)
+2014-03-10 16:12:22,728 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 16:12:22,784 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 16:12:23,636 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:23,671 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 16:12:24,510 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:24,533 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 16:12:25,365 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:25,386 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 16:12:26,218 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:26,249 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 16:12:26,712 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 16:12:26,712 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (f2f5f94c-ae09-e745-b914-89038f515db4)
+2014-03-10 16:12:27,087 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:27,113 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 16:12:27,945 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:27,956 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 16:12:29,205 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 16:12:29,322 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 16:12:30,222 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:30,237 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 16:12:31,072 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:31,089 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 16:12:31,929 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:31,955 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 16:12:32,800 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:32,825 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 16:12:33,668 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:33,711 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 16:12:34,558 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 16:12:34,584 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 17:40:42,677 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 17:40:42,677 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-10 17:40:44,297 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 17:40:44,297 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (c0f6b157ee082253e00220b13ddb7285)
+2014-03-10 17:40:46,290 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 17:40:46,572 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 17:40:47,519 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:47,555 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 17:40:48,390 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:48,411 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 17:40:49,242 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:49,262 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 17:40:50,094 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:50,117 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 17:40:50,948 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:50,968 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 17:40:51,480 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 17:40:51,481 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (70a20130-9be2-f146-9c9e-aef35372f272)
+2014-03-10 17:40:51,800 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:51,813 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 17:40:53,581 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 17:40:53,686 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 17:40:54,552 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:54,569 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 17:40:55,446 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:55,489 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 17:40:56,331 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:56,354 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 17:40:57,201 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:57,246 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 17:40:58,164 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:58,200 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 17:40:59,048 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-10 17:40:59,061 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 18:06:48,534 - main - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 18:06:49,900 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 18:06:49,900 - main - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (dcf1f0c8d7ed05f2f474facbc2f9d607)
+2014-03-10 18:06:51,959 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 18:06:52,018 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 18:06:52,862 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:06:52,895 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 18:06:53,729 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:06:53,749 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 18:06:54,583 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:06:54,603 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 18:06:55,438 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:06:55,459 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 18:06:56,291 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:19,584 - main - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-10 18:07:20,966 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 18:07:20,966 - main - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (7eb15db306cdf84309e9611a77441092)
+2014-03-10 18:07:23,123 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 18:07:23,404 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 18:07:24,352 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:24,384 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 18:07:25,221 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:25,242 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 18:07:26,076 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:26,098 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 18:07:26,932 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:26,956 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 18:07:27,789 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:27,811 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 18:07:28,645 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:28,656 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-10 18:07:28,947 - main - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-10 18:07:36,518 - main - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-10 18:07:36,518 - main - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (e94fe818-7d0b-4d4e-b00b-913c5cd6c072)
+2014-03-10 18:07:38,590 - main - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-10 18:07:38,691 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-10 18:07:39,625 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:39,642 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-10 18:07:40,480 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:40,498 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-10 18:07:41,377 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:41,396 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-10 18:07:42,237 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:42,266 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-10 18:07:43,109 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:43,175 - main - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-10 18:07:44,051 - main - INFO - By.id: tiptip_content after find by
+2014-03-10 18:07:44,069 - main - INFO - ChartboostJobsUISmokeTest ends
+2014-03-11 09:48:59,625 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-11 09:48:59,625 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-11 09:49:07,526 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-11 09:49:07,526 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (bcd6431f-82f3-f541-b5cd-9434e5a50424)
+2014-03-11 09:49:09,579 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-11 09:49:09,674 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-11 09:49:10,542 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 09:49:10,564 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-11 09:49:11,401 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 09:49:11,424 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-11 09:49:12,288 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 09:49:12,355 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-11 09:49:13,198 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 09:49:13,225 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-11 09:49:14,087 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 09:49:14,113 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-11 09:49:14,955 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 09:49:14,987 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-11 10:06:36,811 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-11 10:06:36,811 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-11 10:06:44,186 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-11 10:06:44,186 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (1271da6a-477f-114c-930a-7c31ffbe4a70)
+2014-03-11 10:06:46,193 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-11 10:06:46,280 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-11 10:06:47,132 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:06:47,151 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-11 10:06:47,985 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:06:48,020 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-11 10:06:48,879 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:06:48,908 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-11 10:06:49,768 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:06:49,795 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-11 10:06:50,635 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:06:50,665 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-11 10:06:51,511 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:06:51,530 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-11 10:07:18,059 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-11 10:07:18,059 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-11 10:07:19,474 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-11 10:07:19,474 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (035bf884422cae0b3a58513062a37455)
+2014-03-11 10:07:21,386 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-11 10:07:21,635 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-11 10:07:22,505 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:22,543 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-11 10:07:23,380 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:23,399 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-11 10:07:24,256 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:24,316 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-11 10:07:25,148 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:25,173 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-11 10:07:26,054 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:26,118 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-11 10:07:26,119 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (3ffaca34-c2e8-ab45-ab7a-0c81de87d202)
+2014-03-11 10:07:26,181 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-11 10:07:27,009 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:27,020 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-11 10:07:27,960 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-11 10:07:28,045 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-11 10:07:28,898 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:28,920 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-11 10:07:29,753 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:29,784 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-11 10:07:30,638 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:30,665 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-11 10:07:31,527 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:31,550 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-11 10:07:32,394 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:32,434 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-11 10:07:33,298 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:07:33,328 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-11 10:09:25,949 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-11 10:09:25,949 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-11 10:09:27,341 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-11 10:09:27,341 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (995e69840da9d18c5db6924948fe47e3)
+2014-03-11 10:09:29,459 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-11 10:09:29,688 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-11 10:09:30,554 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:30,587 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-11 10:09:31,456 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:31,508 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-11 10:09:32,340 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:32,360 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-11 10:09:33,230 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:33,288 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-11 10:09:34,174 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:34,270 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-11 10:09:34,272 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (7450d655-a228-834b-a6bf-eb19b0412507)
+2014-03-11 10:09:34,307 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-11 10:09:35,176 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:35,188 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-11 10:09:36,101 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-11 10:09:36,191 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-11 10:09:37,043 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:37,064 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-11 10:09:37,898 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:37,916 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-11 10:09:38,758 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:38,781 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-11 10:09:39,633 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:39,657 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-11 10:09:40,513 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:40,536 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-11 10:09:41,400 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:09:41,425 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-11 10:13:59,518 - TestNG - INFO - ChartboostJobsUISmokeTest on browserCHROME starts
+2014-03-11 10:13:59,518 - TestNG - INFO - ChartboostJobsUISmokeTest on browserFF starts
+2014-03-11 10:14:00,879 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-11 10:14:00,879 - TestNG - INFO - WebDriver info ->  RemoteWebDriver: chrome on MAC (bc65445c63e72932ef117d6c72333cb7)
+2014-03-11 10:14:03,034 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-11 10:14:03,264 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-11 10:14:04,131 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:04,163 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-11 10:14:05,000 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:05,023 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-11 10:14:05,885 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:05,944 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-11 10:14:06,776 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:06,797 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-11 10:14:07,626 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:07,662 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-11 10:14:07,945 - TestNG - INFO - Navigating to page ->  https://www.chartboost.com/jobs
+2014-03-11 10:14:07,945 - TestNG - INFO - WebDriver info ->  FirefoxDriver: firefox on MAC (8be8886b-d6f9-1542-bec5-537a203ec1ed)
+2014-03-11 10:14:08,512 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:08,521 - TestNG - INFO - ChartboostJobsUISmokeTest ends
+2014-03-11 10:14:09,792 - TestNG - INFO - By.xpath: (//a[contains(text(), 'Benefits & Perks')])[1] after find by
+2014-03-11 10:14:09,901 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[1] after find by
+2014-03-11 10:14:10,798 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:10,815 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[2] after find by
+2014-03-11 10:14:11,651 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:11,670 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[3] after find by
+2014-03-11 10:14:12,546 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:12,575 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[4] after find by
+2014-03-11 10:14:13,428 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:13,457 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[5] after find by
+2014-03-11 10:14:14,305 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:14,342 - TestNG - INFO - By.xpath: (//div[@class='four columns tagline perks cb-tiptip']/img)[6] after find by
+2014-03-11 10:14:15,193 - TestNG - INFO - By.id: tiptip_content after find by
+2014-03-11 10:14:15,210 - TestNG - INFO - ChartboostJobsUISmokeTest ends

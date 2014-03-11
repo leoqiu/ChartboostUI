@@ -1,0 +1,27 @@
+<ivysettings>
+
+    <property name="jenkins.repo" value="http://repo.jenkins-ci.org/releases/org/seleniumhq/selenium/"/>
+
+    <properties file="build.properties" />
+    <settings defaultResolver="local-chain"/>
+    <resolvers>
+        <ibiblio name="ibiblio-maven2" m2compatible="true"/>
+        <ibiblio name="java-net-maven2" root="http://download.java.net/maven/2/" m2compatible="true" />
+        <ibiblio name="maven" root="http://mvnrepository.com/artifact/" m2compatible="true" />
+        <ibiblio name="jenkins" root="http://repo.jenkins-ci.org/releases/" m2compatible="true" />
+        <filesystem name="project-built" checksums="">
+            <ivy pattern="${basedir}/[module]-ivy.xml" />
+            <artifact pattern="${basedir}/[artifact].[ext]" />
+        </filesystem>
+        <chain name="local-chain">
+            <resolver ref="maven"/>
+            <resolver ref="ibiblio-maven2"/>
+            <resolver ref="java-net-maven2"/>
+            <resolver ref="project-built"/>
+            <resolver ref="jenkins"/>
+        </chain>
+    </resolvers>
+    <modules>
+        <module organisation="selenium-server-standalone" resolver="jenkins"/>
+    </modules>
+</ivysettings>
